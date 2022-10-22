@@ -1,14 +1,14 @@
-# Cryptocurrency Tracker
+# Coin Knight
 
-This is a crypto currency tracker that can be used to track coins and keep em on watchlist.
+Coin Knight is a crypto currency tracker that can be used to track coins and keep them on watchlist.
 It shows real updates whenever the market cap or value of a coin changes.
 
 ### Features
-- Mobile Responsive
-- Optimized for speed
-- Login, logout and sign up feature
-- Real time updates
-- Keeps coins in watchlist
+- Mobile Responsive.
+- Speed Optimized.
+- Login, logout and sign up feature.
+- Real time updates.
+- Coins watchlist
 
 This is built with React, Material UI, ChartJs, Coingecko's API and Firebase
 
